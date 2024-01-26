@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1651591217 source:a:\pclp2\tema_1\main\src\datapoint.cpp
+	"DataPoint.h"
+	<iostream>
+	"Date.h"
+
+1651593019 a:\pclp2\tema_1\main\include\datapoint.h
+	"Date.h"
+	"TimeSeries.h"
+
+1651592268 source:a:\pclp2\tema_1\main\src\timeseries.cpp
+	"TimeSeries.h"
+	<iostream>
+	"DataPoint.h"
+	<vector>
+	<fstream>
+	"Date.h"
+
+1651593102 a:\pclp2\tema_1\main\include\timeseries.h
+	"DataPoint.h"
+	<fstream>
+	<vector>
+
+1651592322 source:a:\pclp2\tema_1\main\main.cpp
+	<iostream>
+	<fstream>
+	"Date.h"
+	"DataPoint.h"
+	"TimeSeries.h"
+	<vector>
+
+1649764899 a:\pclp2\tema_1\main\include\date.h
+
+1650664143 source:a:\pclp2\tema_1\main\src\date.cpp
+	<iostream>
+	"Date.h"
+

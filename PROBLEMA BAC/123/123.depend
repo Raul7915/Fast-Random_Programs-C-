@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655152106 source:a:\pclp2\problema bac\123\main.cpp
+	<iostream>
+	<fstream>
+
